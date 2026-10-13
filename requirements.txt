@@ -1,0 +1,8 @@
+﻿azure-ai-textanalytics
+azure-core
+azure-identity
+langchain-chroma
+langchain-core
+langchain-openai
+psycopg2-binary
+pytest

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+# Local configuration files; may contain secrets
+config/keys.cfg
+config/tool.cfg
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Testing and logs
+.pytest_cache/
+.coverage
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
